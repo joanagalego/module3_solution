@@ -1,0 +1,47 @@
+body {
+  padding-bottom: 30px;
+}
+
+*{
+  font-family: 'Oxygen', sans-serif;
+}
+/** Navigation **/
+#navigation a.navbar-brand {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+#navbar a:hover, #navbar a:active {
+  background-color: #3b3b3b;
+}
+#navbar a {
+  color: #fff;
+}
+
+/** Content **/
+#content1, #content2, #content3, #content4  {
+  background-color:   #20B2AA;
+  margin-bottom: 20px;
+  height: 600px;
+  overflow: hidden;
+  
+  width: 100%;
+  padding: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  
+
+}
+
+
+
+
+
+#content1, #content2, #content3 p{
+  font-style: italic;
+  text-align: justify;
+}
+
+
